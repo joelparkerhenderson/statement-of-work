@@ -2,6 +2,8 @@
 
 A Statement of Work (SOW) is a narrative description of the required work. It stipulates the deliverables or services required to fulfill the contract, and it defines the task to be accomplished or services to be delivered in clear, concise and meaningful terms.
 
+This SOW example is thanks to https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/16/stelprdb1041239.pdf
+
 <ul>
   <li><a href="introduction">Introduction</a></li>
   <ul>
