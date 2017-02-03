@@ -4,6 +4,8 @@ A Statement of Work (SOW) is a narrative description of the required work. It st
 
 This SOW example is thanks to https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/16/stelprdb1041239.pdf
 
+Contents:
+
 <ul>
   <li><a href="introduction">Introduction</a></li>
   <ul>
