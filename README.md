@@ -21,8 +21,8 @@ Contents:
   * [Roles](#roles)
   * [Responsibilities](#responsibilities)
 * [Context](#context)
-  * [Present](#present)
   * [Past](#past)
+  * [Present](#present)
   * [Future](#future)
 * [Planning](#planning)
   * [Requirements](#requirements)
@@ -184,15 +184,6 @@ We suggest creating a document named "responsibilities" that contains this infor
 ## Context
 
 
-### Present
-
-Identify how the work is involved with the overall organization, its objectives, its projects, and its industry.
-
-Describe the organization, end users, bibliography, references, technical experts in the field, etc.
-
-Include anything that will assist the contractor in formulating a good bid, and the client in achieving shared understanding.
-
-
 ### Past
 
 Describe the context leading up to the work, such as events and circumstances that led to the need for the work.
@@ -200,6 +191,15 @@ Describe the context leading up to the work, such as events and circumstances th
 Identify any relevant past work, and any of its successes, failures, learnings, issues, etc.
 
 Identify any relevant past people, such as previous particpants, earlier stakeholders, etc.
+
+
+### Present
+
+Identify how the work is involved with the overall organization, its objectives, its projects, and its industry.
+
+Describe the organization, end users, bibliography, references, technical experts in the field, etc.
+
+Include anything that will assist the contractor in formulating a good bid, and the client in achieving shared understanding.
 
 
 ### Future
