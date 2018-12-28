@@ -124,31 +124,27 @@ If you prefer to provide more information about the payment, then add an appendi
 
 Describe the objectives of the work: what is to be achieved and delivered by the completion of the contract.
 
-We recommend using the approach of Objectives and Key Results (OKRs).
+We recommend [Objectives and Key Results (OKRs)](http://sixarm.com/objectives-and-key-results/).
 
-Identify the most salient goals, outcomes, outputs, deliverables, and intended uses of the completed work.
+Identify the most relevant goals and outcomes. Es and intended uses of the completed work.
 
 
 ### Performance
 
 Describe the performance of the work: how the work is measured, what performance indicators are relevant, and what measurments and metrics are relevant.
 
-We recommend using the approach of Key Performance Indicators (KPIs) and Key Performance Metrics (KPMs).
+We recommend [Key Performance Indicators (KPIs)](http://sixarm.com/key-performance-indicator/).
 
-Include any business metrics (e.g. net revenue, customer satisfaction).
-
-Include any technical metrics (e.g. page views per day, percent uptime).
+Indentify the most-relevant performance measurements and metrics, for the business aspects (e.g. net revenue, customer satisfaction) and for the technical aspects (e.g. average daily users, percent uptime).
 
 
 ### Factors
 
-Describe the critical success factors that are relevant to the work.
+Describe the factors that are most-relevant to success of the work.
 
-We recommend using the approach of Critical Success Factors (CSFs).
+We recommend [Critical Success Factors (CSFs)](http://sixarm.com/critical-success-factor/).
 
-Include any business factors (e.g. personnel availability, budget allocation, legal approval).
-
-Include any technical factors (e.g. specific tooling, new inventions, computational processing power).
+Identify business factors (e.g. personnel availability, budget allocation) and technical factors (e.g. tool availability, software allocation).
 
 
 ## Who does what
@@ -178,7 +174,7 @@ Identify the responsibilities that are involved.
 
 We recommend using a responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC).
 
-We suggest creating a document named "responsibilities" that contains this information, then continuously improving it. We use a RAM called a RACIO matrix. The matrix rows are roles. The matrix columns are tasks. The matrix cells are role-task assigments. A matrix cell indicates the the assigment as one of Responsible, Accountable, Consultable, Informable, Omittable. A matrix cell may also provide any assigment notes and details.
+We suggest creating a document named "responsibilities" that contains this information, then continuously improving it. We use a RAM called a RACIO matrix. The matrix colums are roles. The matrix rows are areas of responsibility, such as task groupings. The matrix cells are role-task assigments. A matrix cell indicates the role-responsibility assigment as one of Responsible, Accountable, Consultable, Informable, Omittable. A matrix cell may also provide any assigment notes and details.
 
 
 ## Context
