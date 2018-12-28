@@ -335,7 +335,7 @@ The following are examples of the contents that may be included under this headi
 * participate in teleconferences, as needed;
 * maintain security clearance with no conflict for the duration of the contract;
 * conduct and maintain all documentation in a secure area;
-* attend meetings at Client's site, if required.*
+* attend meetings at Client's site, if required.
 
 
 ### Location of work, work site, and delivery point
