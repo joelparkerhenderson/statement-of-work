@@ -23,7 +23,7 @@ Contents:
 * [Context](#context)
   * [Present](#present)
   * [Past](#past)
-* [Future](#future)
+  * [Future](#future)
 * [Planning](#planning)
   * [Requirements](#requirements)
   * [Specifications](#specifications)
@@ -202,7 +202,7 @@ Identify any relevant past work, and any of its successes, failures, learnings, 
 Identify any relevant past people, such as previous particpants, earlier stakeholders, etc.
 
 
-## Future
+### Future
 
 Describe how the work relates to the future, such as of the project, organization, industry, etc.
 
