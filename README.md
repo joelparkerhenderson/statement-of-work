@@ -6,20 +6,27 @@ Contents:
 
 * [Introduction](#introduction)
 * [Statement of work template](#statement-of-work-template)
-  * [Project title](#project-title)
+  * [Title](#title)
   * [Abstract](#abstract)
-  * [Estimated value](#estimated-value)
-  * [Objectives of the project](#objectives-of-the-project)
+  * [Value](#value)
+  * [Scope](#scope)
+  * [Type](#type)
+  * [Payment](#payment)
+* [Purpose](#purpose)
+  * [Objectives](#objectives)
+  * [Performance](#performance)
+  * [Factors](#factors)
+* [People](#people)
+  * [Participants](#participants)
+  * [Roles and responsibilities](#roles-and-responsibilities)
+* [Context](#context)
   * [Background](#background)
-  * [Scope of the project](#scope-of-the-project)
-  * [Stakeholders](#stakeholders)
-  * [Context](#context)
+  * [Position](#position)
   * [History](#history)
-  * [Performance metrics](#performance-metrics)
-  * [Type of contract and payment schedule](#type-of-contract-and-payment-schedule)
 * [Planning](#planning)
   * [Requirements](#requirements)
   * [Specifications](#specifications)
+  * [Work breakdown structure (WBS)](#work-breakdown-structure-wbs)
   * [Applicable standards](#applicable-standards)
   * [Technical, operational, and organizational environment](#technical-operational-and-organizational-environment)
   * [Method and source of acceptance](#method-and-source-of-acceptance)
@@ -36,14 +43,14 @@ Contents:
   * [Special requirements](#special-requirements)
   * [Security requirements](#security-requirements)
   * [Insurance requirements](#insurance-requirements)
-  * [Travel and Living Expenses](#travel-and-living-expenses)
-* [Scheduling](#scheduling)
+  * [Expense requirements](#expense-requirements)
+* [Schedule](#schedule)
   * [Expected start date and completion date](#expected-start-date-and-completion-date)
-  * [Schedule, estimated level of effort, and work breakdown structure (WBS)](#schedule-estimated-level-of-effort-and-work-breakdown-structure-wbs)
+  * [Schedule](#schedule)
   * [Required resources or types of roles to be performed](#required-resources-or-types-of-roles-to-be-performed)
-  * [Applicable Documents](#applicable-documents)
-  * [Wordbook of relevant terms, acronyms, and glossaries](#wordbook-of-relevant-terms-acronyms-and-glossaries)
-  * [Sign-off for proposed resource](#sign-off-for-proposed-resource)
+  * [Applicable documents](#applicable-documents)
+  * [Wordbook](#wordbook)
+  * [Sign-off](#sign-off)
 
 
 ## Introduction
@@ -55,65 +62,153 @@ Wikipedia has good introductions that explain these related concepts:
   * [performance work statement (PWS)](https://en.wikipedia.org/wiki/Performance_work_statement)
   * [contract data requirements list (CDRL)](https://en.wikipedia.org/wiki/Contract_data_requirements_list)
 
-The rest of this page is a statement of work template. The template is thanks to the Natural Resources Conservation Service at the U.S. Department of Agriculture, and its [statement of work document](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/16/stelprdb1041239.pdf).
+The rest of this page is a statement of work template. The template is based on work by the Natural Resources Conservation Service, at the U.S. Department of Agriculture, using this [statement of work document](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/16/stelprdb1041239.pdf).
 
 
 ## Statement of work template
 
 
-### Project title
+### Title
 
 The official title of the project.
 
 
 ### Abstract
 
-Provides a paragraph description of the tasks or services required.
+Summarize the work, ideally in one paragraph.
+
+Include the most-relevant information about the project, objectives, issues, etc.
 
 
-### Estimated value
+### Value
 
-Provides a total estimate of the overall value of the requirement, including the cost of the professional services, the travel and living costs, translation, miscellaneous costs, and any other costs which will be associated with the requirement.
+Summarize the estimated value of the work, ideally in one paragraph.
 
+Include the most-relevant information about costs, including costs of products, services, materials, etc.
 
-### Objectives of the project
-
-Describes what is to be achieved or delivered by the completion of the contract. It also identifies the intended use of the completed project.
-
-
-### Background
-
-Identifies the situation leading up to the project, and those events and circumstances leading to the need for this contract.
+If you prefer to provide more information about the value, then add an appendix section "Value".
 
 
-### Scope of the project
+### Scope
 
-Describes the range, extent, and parameters around the work to be completed in association with the contract. This also specifies the hardware and software involved.
+Summarize the range of the work, extent of the work, and parameters of the work, ideally in one paragraph.
 
+Include the most-relevant information about any requirements, such as people, processes, tools, etc.
 
-### Stakeholders
-
-Identify all the people who are involved, with relevant contact information such as phone numbers, email addresses, and instant messaging usernames. This section includes information about which participants should be notified of project progress.
-
-
-### Context
-
-Identifies how the project fits within an organizational objective. Describes the organization, end users, bibliography, references, technical experts in the field, etc. - anything that will assist the contractor in formulating a good bid.
+If you prefer to provide more information about the value, then add an appendix section "Scope".
 
 
-### History
+### Type
 
-Describes any previous related contract work and its success or failure, previous contractors, etc.
+Summarize the type of work, ideally in one paragraph.
+
+Include the most-relevant language, such as "This is a work for hire as described by U.S. California law.".
+
+If you prefer to provide more information about the type, then add an appendix section "Type".
 
 
-### Performance metrics
+### Payment
 
-Describe the performance metrics that are relevant to the project. This may include business metrics (e.g. net revenue, customer satisfaction) and technical metrics (e.g. page views per day, percent uptime)
+Summarize the payment for the work, in one paragraph.
+
+Include the most-relevant budget requirements, payment schedule, transfer methods, etc.
+
+If you prefer to provide more information about the payment, then add an appendix section "Payment".
 
 
-### Type of contract and payment schedule
+## Purpose
 
-The project acceptance will depend on if the budget available will be enough to cover the work required. Therefore payments breakdown whether up front or phased will be negotiated very early at this stage.
+
+### Objectives
+
+Describe the objectives of the work: what is to be achieved and delivered by the completion of the contract.
+
+We recommend using the approach of Objectives and Key Results (OKRs).
+
+Identify the most salient goals, outcomes, outputs, deliverables, and intended uses of the completed work.
+
+
+### Performance
+
+Describe the performance of the work: how the work is measured, what performance indicators are relevant, and what measurments and metrics are relevant.
+
+We recommend using the approach of Key Performance Indicators (KPIs) and Key Performance Metrics (KPMs).
+
+Include any business metrics (e.g. net revenue, customer satisfaction).
+
+Include any technical metrics (e.g. page views per day, percent uptime).
+
+
+### Factors
+
+Describe the critical success factors that are relevant to the work.
+
+We recommend using the approach of Critical Success Factors (CSFs).
+
+Include any business factors (e.g. personnel availability, budget allocation, legal approval).
+
+Include any technical factors (e.g. specific tooling, new inventions, computational processing power).
+
+
+## Who does what
+
+
+### People
+
+Identify all the people who are involved a.k.a. the participants a.k.a. the stakeholders.
+
+Include employees, contractors, consultants, partners, vendors, customers, auditors, investors, advisors, etc., and provide relevant contact information, such as phone numbers, email addresses, messaging usernames, web links, availability hours, etc.
+
+We sugggest creating a document named "people" that contains this information, then continuously improving it.
+
+
+### Roles
+
+Identify the roles that are involved.
+
+Include employee roles, contractor roles, consultant roles, partner roles, vendor roles, customer roles, auditor roles, investor roles, advisor roles, etc., and provide relevant role information, such as what the role does, its capabilities and limits, etc.
+
+We suggest creating a document named "roles" that contains this information, then continuously improving it.
+
+
+### Responsibilities
+
+Identify the responsibilities that are involved.
+
+We recommend using a responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC).
+
+We suggest creating a document named "responsibilities" that contains this information, then continuously improving it. We use a RAM called a RACIO matrix. The matrix rows are roles. The matrix columns are tasks. The matrix cells are role-task assigments. A matrix cell indicates the the assigment as one of Responsible, Accountable, Consultable, Informable, Omittable. A matrix cell may also provide any assigment notes and details.
+
+
+## Context
+
+
+### Present
+
+Identify how the work is involved with the overall organization, its objectives, its projects, and its industry.
+
+Describe the organization, end users, bibliography, references, technical experts in the field, etc.
+
+Include anything that will assist the contractor in formulating a good bid, and the client in achieving shared understanding.
+
+
+### Past
+
+Describe the context leading up to the work, such as events and circumstances that led to the need for the work.
+
+Identify any relevant past work, and any of its successes, failures, learnings, issues, etc.
+
+Identify any relevant past people, such as previous particpants, earlier stakeholders, etc.
+
+
+## Future
+
+Describe how the work relates to the future, such as of the project, organization, industry, etc.
+
+Identify any relevant future roadmaps, future objectives, future work, etc.
+
+Identify any relevant future people, such as follow-on participants, potential upcoming stakeholders, etc.
+
 
 
 ## Planning
@@ -121,9 +216,11 @@ The project acceptance will depend on if the budget available will be enough to 
 
 ### Requirements
 
-The requirements describe the tasks or activities to be performed by the contractor. It also includes a detailed description of what is required for each of the identified deliverables.
+Describe the tasks or activities to be performed by the contractor.
 
-The description will provide sufficient information so that all parties will be able to understand what will signal completion of a phase or milestone in the work.
+Include a detailed description of what is required for each of the identified deliverables.
+
+Provide sufficient information so that all parties will be able to understand what signals completion of a phase, or milestone, or deliverable.
 
 In most situations, this section will identify what methodology and sequence each of the deliverables will need to meet, how the deliverable will need to be delivered and what will be the relationship of one deliverable with another. This section will provide information on the language, format, version and content requirements for each task or activity and each deliverable or milestone in the work.
 
@@ -134,60 +231,71 @@ You may see all this information included in a table and/or text.
 
 ### Specifications
 
-This section identifies the manner in which the work is to be delivered and will be measured as completed. In some cases, the information provided in the Deliverable or the Method and Source of Acceptance Sections of the SOW will be sufficient. In other cases, specific reference will be made to the details and qualitative and quantitative measures which will be used by Client to determine completion and satisfaction with the work.
+Identify the manner in which the work is to be delivered, and to be measured as completed.
+
+In some cases, the information provided in the Deliverable or the Method and Source of Acceptance Sections of the SOW will be sufficient.
+
+In other cases, specific reference will be made to the details and qualitative and quantitative measures which will be used by Client to determine completion and satisfaction with the work.
+
+
+### Work breakdown structure (WBS)
+ 
+To be determined.
 
 
 ### Applicable standards
 
-This describes any industry standards that need to be adhered to in fulfilling the contract.
+Describe any industry standards that need to be adhered to in fulfilling the contract.
 
-It also identifies the guidelines and templates that must be followed or used by the Contractor in completing the work. Some relevant examples might be the reference to specific sections of authoritative sources, governmental regulations, or best-of-breed practices, peer organization processes, and guidelines.
+Identify any guidelines and templates that must be followed or used by the Contractor in completing the work.
+
+Some relevant examples might be the reference to specific sections of authoritative sources, governmental regulations, or best-of-breed practices, peer organization processes, and guidelines.
 
 
 ### Technical, operational, and organizational environment
 
-Provides details on the technical, organizational and operational environment in which the work will be completed. It is more significant in work where technical compatibility issues may arise. In some cases, it is important to describe in this Section how the work will fit within other initiatives and who will be the ultimate end user of the requirement.
+Provide details on the technical, organizational and operational environment in which the work will be completed. It is more significant in work where technical compatibility issues may arise. In some cases, it is important to describe in this Section how the work will fit within other initiatives and who will be the ultimate end user of the requirement.
 
 
 ### Method and source of acceptance
 
-Provides a description of the performance, quality, format and testing requirements which will be used to measure whether the work is acceptable or not.
+Provide a description of the performance, quality, format and testing requirements which will be used to measure whether the work is acceptable or not.
 
-The following language might be used:
+Example language:
 
-* All deliverables and services rendered under any contract are subject to inspection by the Project Authority. Should any deliverables not be to the satisfaction of the Project Authority, as submitted, the Project Authority shall have the right to reject it or require correction before payment will be authorized.
+* All deliverables and services rendered under any contract are subject to inspection by the Work Authority. Should any deliverables not be to the satisfaction of the Work Authority, as submitted, the Work Authority shall have the right to reject it or require correction before payment will be authorized.
 
 This may also describe quality assurance in terms of processes, goals, automated testing, user testing, etc.
 
 
 ### Reporting requirements
 
-Describes any performance or status reporting requirements which will be expected of the Contractor during the life of the Contract. Includes the format, frequency, number of copies and specific content requirements. It will also identify the need for presentations, conferences or status meetings, if required between the Contractor and the Project Authority.
+Describe any performance or status reporting requirements which will be expected of the Contractor during the life of the Contract. Includes the format, frequency, number of copies and specific content requirements. It will also identify the need for presentations, conferences or status meetings, if required between the Contractor and the Work Authority.
 
 
 ### Project management control procedures
 
-Provides details of how the Project Authority will control the work (progress meetings, demonstrations, prototypes etc.). It will identify how the payment schedule will be matched to the measurement of performance throughout the contract. Contract management and controls in the SOW should be specific to the work and tasks.
+Provide details of how the Work Authority will control the work (progress meetings, demonstrations, prototypes etc.). It will identify how the payment schedule will be matched to the measurement of performance throughout the contract. Contract management and controls in the SOW should be specific to the work and tasks.
 
-The following language might be used:
+Example language:
 
-* The Project Authority shall ensure the contract will be brought in on time, on budget and of an acceptable quality; i.e. submission of progress reports, system tests, etc.
+* The Work Authority shall ensure the contract will be brought in on time, on budget and of an acceptable quality; i.e. submission of progress reports, system tests, etc.
 
 
 ### Change management procedures
 
-Provides a description of the process by which any changes to the Scope will be handled. It clearly defines that no changes will be implemented without first obtaining the approval of the Contract Authority in writing and as required the complete processing of a Contract Amendment.
+Provide a description of the process by which any changes to the Scope will be handled. It clearly defines that no changes will be implemented without first obtaining the approval of the Contract Authority in writing and as required the complete processing of a Contract Amendment.
 
-The following language might be used:
+Example language:
 
-* Client does not anticipate any changes to the requirements detailed in this SOW. However, if changes do arise they must be done in writing by the Project Authority, and an amendment must be prepared to reflect these changes.
+* Client does not anticipate any changes to the requirements detailed in this SOW. However, if changes do arise they must be done in writing by the Work Authority, and an amendment must be prepared to reflect these changes.
 
 
 ### Ownership of intellectual property
 
 Describe who will own any intellectual property created as a result of the Contract. This may include aspects relating to work-for-hire, confidentiality, open source, derivative works, etc.
 
-The following language might be used:
+Example language:
 
 * The Intellectual Property will be owned by Client as a work for hire.
 
@@ -197,12 +305,12 @@ The following language might be used:
 
 ### Authorities
 
-Identifies who will perform the role of the Project Authority and the Contracting Authority and the person who will handle Administration and Invoicing Questions. It also clarifies how the Contractor is to interact with and obtain direction from the Project Authority.
+Identify who will perform the role of the Work Authority and the Contracting Authority and the person who will handle Administration and Invoicing Questions. It also clarifies how the Contractor is to interact with and obtain direction from the Work Authority.
 
 
 ### Client's obligations
 
-Identifies the access to facilities, the loan or use of Furnished Equipment, the access to documentation, networks, etc. which Client will provide to the Contractor. The following are examples of the contents that may be included under this heading:
+Identify the access to facilities, the loan or use of Furnished Equipment, the access to documentation, networks, etc. which Client will provide to the Contractor. The following are examples of the contents that may be included under this heading:
 
 * access to the Client's policies, procedures,publications, reports, studies, etc.
 * ensure availability of staff with whom the contractor may need to consult;
@@ -231,16 +339,16 @@ The following are examples of the contents that may be included under this headi
 
 ### Location of work, work site, and delivery point
 
-Identifies where the work is expected to be completed. This also specifies the location of hardware and software and where people will meet to perform the work.
+Identify where the work is expected to be completed. This also specifies the location of hardware and software and where people will meet to perform the work.
 
-The following language might be used:
+Example language:
 
 * Due to existing workload and deadlines, all personnel assigned to any Contract must be ready to work in close and frequent contact with the Client's personnel. The work will be performed at the Contractor's location.
 
 
 ### Language of work
 
-Identifies if the work must be conducted in a particular language, or languages, and if so by which role or for which task.
+Identify if the work must be conducted in a particular language, or languages, and if so by which role or for which task.
 
 
 ### Special requirements
@@ -252,72 +360,84 @@ Indicates if there will be any requirements for special licenses, information on
 
 Describe any security requirements and policies that the Contractor will need to meet in advance of Contract Award, and how the Contractor will need to demonstrate compliance.
 
-The following language might be used:
+Example language:
 
 * It is a condition that, prior to performance of any obligation under any contract, the Contractor and sub-contractors and their employees assigned to the performance of such contract will be cleared by the federal government at the Reliability level.
 
 
 ### Insurance requirements
 
-Describes any kind of insurance that Client or Contractor may need, such as bonding, on-time completion guarantors, etc.
+Describe any insurance that Client or Contractor may need, or want, or provide, such as bonding, on-time completion guarantors, etc.
+
+Include any understandings about insurance, such as industry practices, peer practices, policy coverages, etc.
 
 
-### Travel and Living Expenses
+### Expense requirements
 
-If travel is required, the estimated amount will be specified.
+Estimate any expenses and their costs, such as travel expenses, living expenses, materials expenses, etc.
+
+Include any understandings about expenses, such as limitations, restrictions, guidances, policies, etc.
 
 
-## Scheduling
+## Schedule
 
 
 ### Expected start date and completion date
 
-Identifies the period in which the work is to be completed. More details are provided in the section of the SOW which identifies the specific schedule which will be required for completion of the work.
+Identify the period in which the work is to be performed.
 
-The following language might be used:
+More details are provided in the section of the SOW which identify the specific schedule which will be required for completion of the work.
 
-* The services of the Contractor will be required for a period of approximately (weeks, months or years) commencing on or about (day, month, year). The expected completion date of this project is (day, month, year).
+Example language:
 
-This may also specify allowable time for projects such as number of hours that can be billed per week or month.
+* The services of the Contractor will be required for a period of approximately (weeks, months or years), commencing on or about (day, month, year), and with expected completion on or about (day, month, year).
+
+This section may also specify allowable time for work, such as number of hours that can be billed per day, week, month, etc.
 
 
-### Schedule, estimated level of effort, and work breakdown structure (WBS)
+### Schedule
 
-To be determined.
+To be determined. This section uses the work breakdown structure (WBS) above.
 
 
 ### Required resources or types of roles to be performed
 
-Provides a brief description of the roles to be performed by the Contractor's resources, if applicable and the specific expertise or minimum requirements for each role.
+Provide a brief description of the roles to be performed by the Contractor's resources, if applicable and the specific expertise or minimum requirements for each role.
 
-The following language might be used:
+Example language:
 
 * Current Licence from a particular regulatory body.
+
 * Member in good standing with an industry organization.
 
 
-### Applicable Documents
+### Applicable documents
 
-Appends any relevant background documents, drawings, specifications, samples or information which will be important to demonstrate what, how and when the work will need to be completed.
-
-
-### Wordbook of relevant terms, acronyms, and glossaries
-
-Provides an explanation of any relevant terms, acronyms or wording used in the body of the SOW.
-
-The following language might be used:
-
-* SOW - Statement of Work
-* MSA - Master Service Agreement
-* WBS - Work Breakdown Structure
-* HTML - Hyper Text Markup Language
+Append any relevant background documents, drawings, specifications, samples or information which will be important to demonstrate what, how and when the work will need to be completed.
 
 
-### Sign-off for proposed resource
+### Wordbook
+
+Explain relevant terminology. Provide any reference wordbooks, glossaries, dictionaries, etc.
+
+Include any intialisms, acronyms, and specialized wording revelant to the work, the organization, and the industry.
+
+We recommend creating a file named "wordbook" that contains this information, then continuously improving this file.
+
+Example language:
+
+* SOW: Statement of Work
+
+* OKR: Objective and Key Result
+
+* WBS: Work Breakdown Structure
+
+
+### Sign-off
 
 The following phrase will appear at the end of each Statement of Work:
 
-NOTE: Before signing the Statement of Work, if you have any questions or concerns, please call the Project Authority indicated above to negotiate any issues.
+NOTE: Before signing the Statement of Work, if you have any questions or concerns, please call the Work Authority indicated above to negotiate any issues.
 
 If you agree to the requirements of this Statement of Work, please sign and date the document which will be accepted as your proposal by Client, and return to my attention.
 
