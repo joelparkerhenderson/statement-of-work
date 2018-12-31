@@ -126,7 +126,7 @@ Describe the objectives of the work: what is to be achieved and delivered by the
 
 We recommend [Objectives and Key Results (OKRs)](http://sixarm.com/objectives-and-key-results/).
 
-Identify the most relevant goals and outcomes. Es and intended uses of the completed work.
+Identify the most relevant goals, outcomes, and intended uses of the completed work.
 
 
 ### Performance
