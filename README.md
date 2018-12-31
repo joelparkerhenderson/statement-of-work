@@ -309,7 +309,7 @@ Identify who will perform the role of the Work Authority and the Contracting Aut
 
 Identify the access to facilities, the loan or use of Furnished Equipment, the access to documentation, networks, etc. which Client will provide to the Contractor. The following are examples of the contents that may be included under this heading:
 
-* access to the Client's policies, procedures,publications, reports, studies, etc.
+* access to the Client's policies, procedures, publications, reports, studies, etc.
 * ensure availability of staff with whom the contractor may need to consult;
 * access to appropriate guidelines, standards, industry regulations;
 * provide comments on draft reports within five working days from receipt of report;
