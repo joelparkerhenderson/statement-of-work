@@ -172,10 +172,9 @@ We suggest creating a document named "roles" that contains this information, the
 
 Identify the responsibilities that are involved.
 
-We recommend using a responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC).
+We suggest creating a document named "responsibilities" that contains this information, then continuously improving it. We suggest creating a responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC). We use a RAM called a RACIO matrix. The matrix colums are roles. The matrix rows are areas of responsibility, such as task groupings. The matrix cells are role-task assigments. A matrix cell indicates the role-responsibility assigment as one of Responsible, Accountable, Consultable, Informable, Omittable. A matrix cell may also provide any assigment notes and details.
 
-We suggest creating a document named "responsibilities" that contains this information, then continuously improving it. We use a RAM called a RACIO matrix. The matrix colums are roles. The matrix rows are areas of responsibility, such as task groupings. The matrix cells are role-task assigments. A matrix cell indicates the role-responsibility assigment as one of Responsible, Accountable, Consultable, Informable, Omittable. A matrix cell may also provide any assigment notes and details.
-
+We recommend [Responsibility Assignment Matrix (RAM)](https://github.com/joelparkerhenderson/responsibility-assignment-matrix)
 
 ## Context
 
