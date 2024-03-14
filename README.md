@@ -124,7 +124,7 @@ If you prefer to provide more information about the payment, then add an appendi
 
 Describe the objectives of the work: what is to be achieved and delivered by the completion of the contract.
 
-We recommend [Objectives and Key Results (OKRs)](http://sixarm.com/objectives-and-key-results/).
+We recommend [Objectives and Key Results (OKRs)](https://github.com/joelparkerhenderson/objectives-and-key-results/).
 
 Identify the most relevant goals, outcomes, and intended uses of the completed work.
 
@@ -133,7 +133,7 @@ Identify the most relevant goals, outcomes, and intended uses of the completed w
 
 Describe the performance of the work: how the work is measured, what performance indicators are relevant, and what measurments and metrics are relevant.
 
-We recommend [Key Performance Indicators (KPIs)](http://sixarm.com/key-performance-indicator/).
+We recommend [Key Performance Indicators (KPIs)](https://github.com/joelparkerhenderson/key-performance-indicator/).
 
 Indentify the most-relevant performance measurements and metrics, for the business aspects (e.g. net revenue, customer satisfaction) and for the technical aspects (e.g. average daily users, percent uptime).
 
@@ -142,7 +142,7 @@ Indentify the most-relevant performance measurements and metrics, for the busine
 
 Describe the factors that are most-relevant to success of the work.
 
-We recommend [Critical Success Factors (CSFs)](http://sixarm.com/critical-success-factor/).
+We recommend [Critical Success Factors (CSFs)](https://github.com/joelparkerhenderson/critical-success-factor/).
 
 Identify business factors (e.g. personnel availability, budget allocation) and technical factors (e.g. tool availability, software allocation).
 
