@@ -3,7 +3,13 @@
     "ignorePaths": [],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": [],
+    "words": [
+        "Consultable",
+        "Informable",
+        "initialisms",
+        "Omittable",
+        "RACIO"
+    ],
     "ignoreWords": [],
     "import": []
 }
