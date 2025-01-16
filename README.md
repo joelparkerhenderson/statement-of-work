@@ -1,57 +1,57 @@
 # Statement Of Work
 
-A Statement of Work (SOW) is a narrative description of the required work. It stipulates the deliverables or services required to fulfill the contract, and it defines the task to be accomplished or services to be delivered in clear, concise and meaningful terms.
+A Statement of Work (SOW) is a narrative description of the required work. It stipulates the deliverables or services required to fulfill the contract, and it defines the task to be accomplished or services to be delivered in clear, concise and meaningful terms. Examples are by ChatGPT.
 
 Contents:
 
-* [Introduction](#introduction)
-* [Statement of work template](#statement-of-work-template)
-  * [Title](#title)
-  * [Abstract](#abstract)
-  * [Value](#value)
-  * [Scope](#scope)
-  * [Type](#type)
-  * [Payment](#payment)
-* [Purpose](#purpose)
-  * [Objectives](#objectives)
-  * [Performance](#performance)
-  * [Factors](#factors)
-* [Who does what](#who-does-what)
-  * [People](#people)
-  * [Roles](#roles)
-  * [Responsibilities](#responsibilities)
-* [Context](#context)
-  * [Past](#past)
-  * [Present](#present)
-  * [Future](#future)
-* [Planning](#planning)
-  * [Requirements](#requirements)
-  * [Specifications](#specifications)
-  * [Work breakdown structure (WBS)](#work-breakdown-structure-wbs)
-  * [Applicable standards](#applicable-standards)
-  * [Technical, operational, and organizational environment](#technical-operational-and-organizational-environment)
-  * [Method and source of acceptance](#method-and-source-of-acceptance)
-  * [Reporting requirements](#reporting-requirements)
-  * [Project management control procedures](#project-management-control-procedures)
-  * [Change management procedures](#change-management-procedures)
-  * [Ownership of intellectual property](#ownership-of-intellectual-property)
-* [Other terms and conditions](#other-terms-and-conditions)
-  * [Authorities](#authorities)
-  * [Client's obligations](#client-s-obligations)
-  * [Contractor's obligations](#contractor-s-obligations)
-  * [Location of work, work site, and delivery point](#location-of-work-work-site-and-delivery-point)
-  * [Language of work](#language-of-work)
-  * [Special requirements](#special-requirements)
-  * [Security requirements](#security-requirements)
-  * [Insurance requirements](#insurance-requirements)
-  * [Expense requirements](#expense-requirements)
-* [Schedule](#schedule)
-  * [Expected start date and completion date](#expected-start-date-and-completion-date)
-  * [Schedule](#schedule)
-  * [Required resources or types of roles to be performed](#required-resources-or-types-of-roles-to-be-performed)
-  * [Applicable documents](#applicable-documents)
-  * [Wordbook](#wordbook)
-  * [Sign-off](#sign-off)
+- [Introduction](#introduction)
+- [Statement of work template](#statement-of-work-template)
+  - [Title](#title)
+  - [Abstract](#abstract)
+  - [Value](#value)
+  - [Scope](#scope)
+  - [Type](#type)
+  - [Payment](#payment)
+- [Purpose](#purpose)
+  - [Objectives](#objectives)
+  - [Performance](#performance)
+  - [Factors](#factors)
+- [Who does what](#who-does-what)
+  - [People](#people)
+  - [Roles](#roles)
+  - [Responsibilities](#responsibilities)
+- [Context](#context)
+  - [Past](#past)
+  - [Present](#present)
+  - [Future](#future)
+- [Planning](#planning)
+  - [Requirements](#requirements)
+  - [Specifications](#specifications)
+  - [Work breakdown structure (WBS)](#work-breakdown-structure-wbs)
+  - [Applicable standards](#applicable-standards)
+  - [Technical, operational, and organizational environment](#technical-operational-and-organizational-environment)
+  - [Method and source of acceptance](#method-and-source-of-acceptance)
+  - [Reporting requirements](#reporting-requirements)
+  - [Project management control procedures](#project-management-control-procedures)
+  - [Change management procedures](#change-management-procedures)
+  - [Ownership of intellectual property](#ownership-of-intellectual-property)
+- [Other terms and conditions](#other-terms-and-conditions)
+  - [Authorities](#authorities)
+  - [Client's obligations](#clients-obligations)
+  - [Contractor's obligations](#contractors-obligations)
+  - [Location of work, work site, and delivery point](#location-of-work-work-site-and-delivery-point)
+  - [Language of work](#language-of-work)
+  - [Special requirements](#special-requirements)
+  - [Security requirements](#security-requirements)
+  - [Insurance requirements](#insurance-requirements)
+  - [Expense requirements](#expense-requirements)
+- [Schedule](#schedule)
+  - [Expected start date and completion date](#expected-start-date-and-completion-date)
+  - [Schedule](#schedule-1)
+  - [Required resources or types of roles to be performed](#required-resources-or-types-of-roles-to-be-performed)
+  - [Applicable documents](#applicable-documents)
+  - [Wordbook](#wordbook)
+  - [Sign-off](#sign-off)
 
 
 ## Introduction
@@ -80,6 +80,19 @@ Summarize the work, ideally in one paragraph.
 
 Include the most-relevant information about the project, objectives, issues, etc.
 
+Example: This Statement of Work (SOW) outlines the objectives, scope,
+deliverables, and timelines for the development and implementation of a new
+customer relationship management (CRM) system for XYZ Corporation. The project
+aims to enhance client interactions, streamline internal processes, and improve
+overall business operations through a customized CRM solution. The vendor will
+be responsible for the full lifecycle of the project, including system design,
+integration, data migration, user training, and post-implementation support. The
+timeline for completion is 12 months, with key milestones and deliverables
+identified at each phase. The total budget for the project is $500,000, with
+payment schedules linked to the completion of specific deliverables. This SOW
+ensures clear expectations, accountability, and performance standards throughout
+the duration of the project.
+
 
 ### Value
 
@@ -88,6 +101,17 @@ Summarize the estimated value of the work, ideally in one paragraph.
 Include the most-relevant information about costs, including costs of products, services, materials, etc.
 
 If you prefer to provide more information about the value, then add an appendix section "Value".
+
+Example: The estimated value of the work outlined in this Statement of
+Work (SOW) is $500,000, covering the full scope of the CRM system development
+and implementation. This cost includes the design, customization, and
+integration of the software, along with data migration, user training, and
+post-implementation support. Additionally, the budget accounts for hardware and
+software licensing fees, professional services for system configuration, and
+ongoing maintenance for the first year. Payments will be made in installments
+upon the completion of key milestones, ensuring alignment with project progress
+and deliverables. Any potential changes or additional requirements will be
+assessed and billed separately, subject to agreement by both parties.
 
 
 ### Scope
@@ -98,6 +122,20 @@ Include the most-relevant information about any requirements, such as people, pr
 
 If you prefer to provide more information about the value, then add an appendix section "Scope".
 
+Example: The scope of this project includes the end-to-end development,
+customization, and deployment of a CRM system for XYZ Corporation, designed to
+improve client management and streamline internal workflows. The work involves
+detailed system design and configuration, data migration from legacy systems,
+integration with existing software platforms, and user training for
+approximately 100 employees across multiple departments. The project will
+require collaboration between the vendor’s development team, XYZ Corporation’s
+IT department, and key business stakeholders. Tools used will include CRM
+software, data migration tools, and training platforms. Additionally, the vendor
+will provide post-launch support for a period of six months to address any
+system issues or updates. The work will be completed in a phased approach, with
+specific deliverables outlined at each stage to ensure project milestones are
+met on time.
+
 
 ### Type
 
@@ -106,6 +144,18 @@ Summarize the type of work, ideally in one paragraph.
 Include the most-relevant language, such as "This is a work for hire as described by U.S. California law.".
 
 If you prefer to provide more information about the type, then add an appendix section "Type".
+
+Example: This is a work-for-hire agreement, as defined under U.S. California
+law, wherein the vendor is contracted to deliver a fully customized CRM system
+for XYZ Corporation. All intellectual property, including software code,
+documentation, and related materials developed during the project, will be owned
+by XYZ Corporation upon completion and full payment. The vendor will perform the
+work as an independent contractor, adhering to the project’s defined
+requirements, milestones, and deadlines, with no employee-employer relationship
+established. The vendor is responsible for providing all necessary resources,
+including personnel, tools, and equipment, to complete the project, while
+ensuring compliance with all applicable laws and regulations during the
+development and implementation phases.
 
 
 ### Payment
@@ -116,6 +166,18 @@ Include the most-relevant budget requirements, payment schedule, transfer method
 
 If you prefer to provide more information about the payment, then add an appendix section "Payment".
 
+Example: The total budget for this project is $500,000, with payments structured
+across five key milestones. An initial payment of 20% ($100,000) will be due
+upon signing the contract to initiate the project. Subsequent payments will be
+made as follows: 30% ($150,000) upon completion of system design and approval,
+20% ($100,000) upon successful integration and data migration, 20% ($100,000)
+after user training and system testing, and the final 10% ($50,000) upon project
+completion and post-launch support handover. Payments will be made via bank
+transfer within 15 days of invoice submission, and invoices will be issued upon
+the successful completion of each milestone. Any changes to the project scope or
+timeline will be subject to additional billing, with prior written approval from
+XYZ Corporation.
+
 
 ## Purpose
 
@@ -124,27 +186,122 @@ If you prefer to provide more information about the payment, then add an appendi
 
 Describe the objectives of the work: what is to be achieved and delivered by the completion of the contract.
 
-We recommend [Objectives and Key Results (OKRs)](https://github.com/joelparkerhenderson/objectives-and-key-results/).
+We recommend [Objectives and Key Results (OKRs)](http://github.com/joelparkerhenderson/objectives-and-key-results/).
 
 Identify the most relevant goals, outcomes, and intended uses of the completed work.
+
+Example: The primary objective of this project is to design, develop, and
+implement a customized customer relationship management (CRM) system for XYZ
+Corporation, aimed at enhancing customer interactions, improving data
+management, and streamlining internal workflows. By the completion of the
+contract, the following key deliverables will be achieved: a fully integrated
+CRM platform, migration of existing client data into the new system,
+comprehensive user training for employees, and a seamless transition to ongoing
+system support. The CRM system will be configured to meet the specific needs of
+various departments, including sales, marketing, and customer service, enabling
+improved collaboration, more efficient data access, and enhanced reporting
+capabilities. The successful completion of this project will result in increased
+operational efficiency, better customer insights, and a more cohesive customer
+experience across the organization.
 
 
 ### Performance
 
-Describe the performance of the work: how the work is measured, what performance indicators are relevant, and what measurments and metrics are relevant.
+Describe the performance of the work: how the work is measured, what performance
+indicators are relevant, and what measurements and metrics are relevant.
 
-We recommend [Key Performance Indicators (KPIs)](https://github.com/joelparkerhenderson/key-performance-indicator/).
+We recommend [Key Performance Indicators (KPIs)](http://github.com/joelparkerhenderson/key-performance-indicator/).
 
-Indentify the most-relevant performance measurements and metrics, for the business aspects (e.g. net revenue, customer satisfaction) and for the technical aspects (e.g. average daily users, percent uptime).
+Identify the most-relevant performance measurements and metrics, for the
+business aspects (e.g. net revenue, customer satisfaction) and for the technical
+aspects (e.g. average daily users, percent uptime).
+
+Example: The performance of this project will be measured through a combination
+of business and technical indicators to ensure that the CRM system meets both
+functional requirements and organizational goals. Performance will be monitored
+through regular status meetings, user feedback, and system reports. Adjustments
+and optimizations will be made as needed to meet or exceed these agreed-upon
+metrics.
+
+Example business performance metrics:
+
+* Customer Satisfaction: A customer satisfaction score of 85% or higher should
+  be achieved through internal surveys measuring satisfaction with the CRM’s
+  ease of use, functionality, and overall impact on service delivery.
+
+* Net Revenue Impact: The CRM system should contribute to a 15% increase in lead
+  conversion rates and a 10% increase in customer retention within the first
+  year, as a result of more personalized customer management and streamlined
+  processes.
+
+Example system performance metrics:
+
+* Uptime: The CRM system must maintain at least 99.9% uptime during operation to
+  ensure business continuity.
+
+* Response Time: System response time should be less than 3 seconds for all user
+  actions, other than batch data processing, ensuring smooth user interactions.
+
+* Data Accuracy: Migration of existing customer data must achieve at least 98%
+  accuracy with no data loss.
+
+* User Adoption: At least 90% of end-users should be actively using the CRM
+  within 30 days post-implementation.
 
 
 ### Factors
 
 Describe the factors that are most-relevant to success of the work.
 
-We recommend [Critical Success Factors (CSFs)](https://github.com/joelparkerhenderson/critical-success-factor/).
+We recommend [Critical Success Factors (CSFs)](http://github.com/joelparkerhenderson/critical-success-factor/).
 
 Identify business factors (e.g. personnel availability, budget allocation) and technical factors (e.g. tool availability, software allocation).
+
+Examples:
+
+* Personnel: Success relies heavily on the availability of qualified and skilled
+  personnel, including project managers, subject matter experts, and developers,
+  is critical for timely decision-making and issue resolution. Any gaps in
+  knowledge or skill sets may lead to delays or suboptimal solutions.
+
+* Budget Allocation and Financial Resources: Adequate funding must be allocated
+  at the outset and maintained throughout the duration of the project.
+  Insufficient budget allocation can lead to resource constraints, resulting in
+  project delays, quality issues, or scope reductions.
+
+* Tool Availability: The timely availability of the necessary tools and software
+  platforms is essential for the team to carry out the required tasks
+  efficiently. This includes the allocation of licenses, access to development
+  environments, current versioning, and any specialized software tools required.
+
+* Stakeholder Engagement: Effective communication with stakeholders is crucial
+  for ensuring alignment on objectives, outputs, and outcomes. Regular updates,
+  feedback loops, clear roles and responsibilities, and transparency are key to
+  managing expectations and addressing concerns as they arise.
+
+* Scope Management: Clear procedures for managing scope changes and project
+  adjustments help avoid scope creep and maintain focus on the original project
+  objectives. Regular reviews and approval processes for any changes to scope,
+  timeline, or budget are essential for successful project delivery. 
+
+* Risk Management: Proactive identification, assessment, and mitigation of risks
+  are key to avoiding project disruptions. A well-defined risk management plan,
+  including contingency plans for potential issues, ensures the project can
+  adapt quickly to unforeseen challenges.
+
+* Time Management: Timely delivery of project milestones and deliverables is
+  essential for overall project success. A well-structured project schedule with
+  clear deadlines, dependencies, milestones, and progress monitoring is
+  necessary to ensure the team remains focused and efficient. 
+
+* Quality Assurance: Ongoing quality assurance processes, including automated
+  and manual testing, are vital. A clearly defined testing strategy should be
+  followed to detect issues early in the development lifecycle. Current test
+  results must be visible to authorized stakeholders.
+  
+* End-User Adoption: The willingness and ability of end-users to adopt the final
+  solution is a critical success factor. This includes proper end-user training,
+  end-user testing, and end-user support throughout the adoption process. 
 
 
 ## Who does what
@@ -156,7 +313,7 @@ Identify all the people who are involved a.k.a. the participants a.k.a. the stak
 
 Include employees, contractors, consultants, partners, vendors, customers, auditors, investors, advisors, etc., and provide relevant contact information, such as phone numbers, email addresses, messaging usernames, web links, availability hours, etc.
 
-We sugggest creating a document named "people" that contains this information, then continuously improving it.
+We suggest creating a document named "people" that contains this information, then continuously improving it.
 
 
 ### Roles
@@ -172,9 +329,10 @@ We suggest creating a document named "roles" that contains this information, the
 
 Identify the responsibilities that are involved.
 
-We suggest creating a document named "responsibilities" that contains this information, then continuously improving it. We suggest creating a responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC). We use a RAM called a RACIO matrix. The matrix colums are roles. The matrix rows are areas of responsibility, such as task groupings. The matrix cells are role-task assigments. A matrix cell indicates the role-responsibility assigment as one of Responsible, Accountable, Consultable, Informable, Omittable. A matrix cell may also provide any assigment notes and details.
+We recommend using a responsibility assignment matrix (RAM) a.k.a. linear responsibility chart (LRC).
 
-We recommend [Responsibility Assignment Matrix (RAM)](https://github.com/joelparkerhenderson/responsibility-assignment-matrix)
+We suggest creating a document named "responsibilities" that contains this information, then continuously improving it. We use a RAM called a RACIO matrix. The matrix colums are roles. The matrix rows are areas of responsibility, such as task groupings. The matrix cells are role-task assigments. A matrix cell indicates the role-responsibility assigment as one of Responsible, Accountable, Consultable, Informable, Omittable. A matrix cell may also provide any assigment notes and details.
+
 
 ## Context
 
@@ -416,7 +574,7 @@ Append any relevant background documents, drawings, specifications, samples or i
 
 Explain relevant terminology. Provide any reference wordbooks, glossaries, dictionaries, etc.
 
-Include any intialisms, acronyms, and specialized wording revelant to the work, the organization, and the industry.
+Include any initialisms, abbreviations, acronyms, and specialized wording relevant to the work, the organization, and the industry.
 
 We recommend creating a file named "wordbook" that contains this information, then continuously improving this file.
 
